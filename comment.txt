@@ -1,0 +1,11 @@
+<html>
+<h2>Hantar komen anda ke kaisharidriss@gmail.com</h2>
+<form action="mailto:kaisharidriss@gmail.com"method="post"enctype="text/plain">
+Nama:<br><input type="text"name="name"><br>
+E-mail:<br><input type="text"name="mail"><br>
+Komen:<br>
+<input type="text"name="comment"size="50"><br><br>
+<input type="submit"value="Hantar">
+<input type="reset"value="Semula">
+</form>
+</html>

@@ -1,0 +1,23 @@
+<html>
+<head>
+<titile>PERLIS</title>
+
+<framest
+border="o"frameborder="o"framespacing="2"rows="100%,*">
+<frame name="top"src="banner.html"noresize scrolling="no">
+<frame
+border="o"frameborder="o"framespacing="4"cols="100&,*">
+
+   <frame src="kiri.html" scrolling="auto"noresize>
+   <frameset border="o"frameborder="o"framespacing="4">
+   <frame name="main"src="utama.html" scrolling="yes"
+ noresize
+ 
+ </frameset>
+ 
+ <body>
+ 
+ 
+ </body>
+ </head>
+ </html>

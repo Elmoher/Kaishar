@@ -1,0 +1,15 @@
+<html>
+<head>
+<h1><i>WANG KELIAN</i></h1>
+</head>
+<p>Wang kelian merupakan sebuah bandar di negeri Perlis dalam kawasan sempadan Malaysia-Thailand,berhampiran dengan Satun,Thailand
+<p>Ia juga merupakan tempat pelancongan yang menarik dengan pemandangan yang menghadap ke arah bukit-bukit dan pemandangan Matahari terbit.</p>
+<img border="o"src="wangkelian2.jpeg"align=""center""width="600"height="450">
+<img border="o"src="wangkelian3.jpeg"align=""center""width="1000"height="450">
+<!DOCKTYPE html> <html>
+<head><style>body{background-image:url("wang kelian.jpg");
+background-repeat:no-repeat;
+background-size:cover;background-attachment:fixed;}
+</style>
+</body>
+</html>

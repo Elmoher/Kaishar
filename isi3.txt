@@ -1,0 +1,35 @@
+<html>
+<head>
+<h1><head>Makanan</i></h1>
+</head>
+<p>Makanan yang menarik di Perlis ialah luk chup atau dieja sebagai look choop, luk chup merupakan sejenis pencuci mulut Thai yang berasal dari marzipan<h3>
+<p>Makanan yang lain ialah seperti pulut harum manis,kuih dangai dan banyak lagi.</h3>
+<p>Resipi membuat luk chup..Kacang hijau belah 500g
+Santan 1.5 cawan
+pewarna makanan
+Gula putih 2 cawan
+Gelatin (serbuk agar-agar)
+Air 2 cawan
+1/4 sudu kecil Garam</h3>
+<img border="o"src="luk chup.jpg"align=""center""width="100"height="400">
+<img border="o"src="tutorial2.jpg"align=""center""width="400"height="500">
+<p><h3>TUTORIAL:Rendam kacang semalaman dalam air. Keesokan harinya,
+ kukus dalam pengukus berlapik kain keju sehingga lembut.
+Haluskan kacang bersama santan dan gula hingga halus. Tambah lagi gula jika perlu. Letakkan puri kacang ke dalam kuali.Dengan api perlahan masak puri sambil dikacau sehingga menjadi pes lentur.</h3>
+<img border="o"src="tutorial.jpg"align=""center""width="400"height="500">
+<p><h3>Keluarkan sedikit pes dan bentukkannya menjadi pelbagai buah-buahan, seperti ceri, cili atau apa sahaja yang boleh anda fikirkan. Anda boleh menggunakan lidi untuk membantu anda membentuk buah-buahan.
+Letakkan bahagian bawah buah pada lidi buluh dan cat warna yang sesuai.Semasa buah-buahan kering, buat gelatine dip.</h3>
+<img border="o"src="tutorial3.jpg"align=""center""width="400"height="500">
+<p><h3>Panaskan gelatin (serbuk agar-agar) perlahan-lahan dalam air hingga mendidih sehingga larut sepenuhnya. Sejukkan sedikit selama 5 minit supaya gelatin hangat. Celupkan buah-buahan yang telah dicat ke dalam gelatin menggunakan lidi buluh sebagai pemegang. Cucuk hujung lidi yang satu lagi ke dalam kepingan styrofoam untuk membiarkan gelatin mengeras.
+Anda boleh melakukan ini sehingga 3 kali untuk menambah lebih berkilat.</h3>
+<img border="o"src="tutorial4.jpg"align=""center""width="400"height="500">
+<p><h3> Apabila gelatin kering anda boleh menambah sedikit daun untuk memberikan rupa yang realistik.
+Susun buah-buahan di atas dulang dan hidangkan.</h3>
+<img border="o"src="tutorial5.jpg"align=""center""width="400"height="350">
+<!DOCKTYPE html> <html>
+<head><style>body{background-image:url("bgk.jpeg");
+background-repeat:no-repeat;
+background-size:cover;background-attachment:fixed;}
+</style>
+</body>
+</html>

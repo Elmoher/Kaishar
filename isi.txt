@@ -1,0 +1,9 @@
+<html>
+<head>
+<h1><i>PADANG BESAR</i></h1>
+</head>
+<p>Padang besar merupakan salah satu daerah di Perlis yang berdekatandenagan wilayah Songkhala negara Thailand.</p>
+<p>Ia juga pusat membeli belah yang sangat murah dan berpatutan.<h3
+<img border="o"src="Pdg.besar.jpg"align=""center""width="500"height="300">
+</body>
+</html>

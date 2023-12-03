@@ -1,0 +1,10 @@
+<html>
+<marquee><img border="o" src="banner2.png"align="center" width="500"height="120"</marquee>
+<img border="o" src="perlis.jpg" align="center"width"300"height="200">
+<img border="o" src="wang kelian.jpg" align="center"width"500"height="300">
+<img border="o" src="PADANGBESAR.jpeg" align="center"width"500"height="300">
+<!DOCKTYPE html> <html>
+<head><style>body{background-image:url("al-hussein.jpg");
+background-repeat:no-repeat;
+background-size:cover;background-attachment:fixed;}
+</style>
